@@ -11,7 +11,7 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 ## Sample Posts
 This blog contains sample posts which help stage pages and blog data.
 
-"posts list":
+posts list:
 
 <ul class="posts">
   {% for post in site.posts %}
